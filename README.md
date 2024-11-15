@@ -36,6 +36,7 @@ Prévia do Projeto
 Aqui está uma prévia de como o projeto funciona:
 
 Efeito Visual:
+
 Botões e elementos com animações suaves.
 Layout que se ajusta perfeitamente a dispositivos móveis e desktops.
 Layout da Newsletter:
